@@ -1,0 +1,14 @@
+1.
+
+
+3. 
+Create 
+
+4.
+Information
+Success
+Redirection
+400 Error codes - problem on the client side
+500 Error codes - problem on the server side
+
+5. 
