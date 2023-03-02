@@ -1,14 +1,32 @@
-1.
+0.
+https://github.com/vaibhavchugh17/CMPUT404_Lab7
 
+1. 
+Flask is a micro-web framework whereas Django is a full-stack web development framework. Django has more built-in functionalities than Flask and it is more scalabale whereas Flask is highly customizable and less compless compare to Django.
 
-3. 
-Create 
+2. 
+REST stands for Representational State Transfer. When something is described as RESTful, it means that it conforms to the constraints of the REST architectural style.  
+Some key principles are Client-server architecture, Statelessness, Cacheability, Layered system and Uniform interface
+
+3.
+CRUD stands for Create, Read, Update, and Delete.
+HTTP methods associated with each letter:
+    Create - HTTP POST
+    Read - HTTP GET 
+    Update - HTTP PUT or PATCH 
+    Delete - HTTP DELETE 
 
 4.
-Information
-Success
-Redirection
-400 Error codes - problem on the client side
-500 Error codes - problem on the server side
+1xx: Informational codes, indicates the request was received and the server is continuing to process it
+2xx: Success codes, inidicates the request was successfully received and accepted by the server
+3xx: Redirection codes, indicates that the clients need to take an additional action to complete the request.
+4xx: Error codes - error in the request made by the client
+5xx: Error codes - error in the server while processing the request
 
 5. 
+An XSS (Cross-Site Scripting) attack is an attack where an attacker injects malicious code into a web page which is public.
+Lack of input validation can make a website vulnerable to an XSS attack. 
+
+6. 
+CORS stands for Cross-Origin Resource Sharing. It is implemented in web browsers as a security feature that restricts web pages from making requests to a different domain other than the one that served the original web page.
+In web application development, CORS protection is needed when a web application makes requests to a different domain or port other than the one that served the original web page
